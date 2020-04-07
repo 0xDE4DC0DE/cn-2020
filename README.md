@@ -1,6 +1,6 @@
 # CALCOLO NUMERICO
 
-Exercises in Matlab for the Numerical Analysis Course @ UniPisa
+Exercises in MATLAB for the Numerical Analysis Course @ UniPisa
 
 
 :octocat: [Profilo GitHub]
